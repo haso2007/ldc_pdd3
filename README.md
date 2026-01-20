@@ -1,4 +1,4 @@
-# PDD Group Hub (Linux DO Connect + LDC EasyPay)
+﻿# PDD Group Hub (Linux DO Connect + LDC EasyPay)
 
 This worker hosts a simple 3-person group-buy hub:
 - Posting a group costs 4 LDC (paid to the merchant).
@@ -71,3 +71,7 @@ Default values are in `wrangler.toml` and can be overridden:
 
 - No PDD API integration: proofs are manual.
 - Reward payouts are tracked in the database and must be paid manually.
+
+中文文档: [README.zh.md](README.zh.md)
+
+
